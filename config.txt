@@ -1,3 +1,7 @@
 ime = asen
 rasmer = 20 incha
 email = troshka@bg.bg
+ime = asparuh
+razmer = 1213231321321
+email = hanaasparuh@abc.ru
+
