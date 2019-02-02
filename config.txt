@@ -1,3 +1,3 @@
 ime = asen
 rasmer = 20 incha
-email = troshka@bg
+email = troshka@bg.bg
