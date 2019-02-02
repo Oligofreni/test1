@@ -1,1 +1,7 @@
+
 Kubrat, 36 , bgnatrimoreta@abv.bg
+
+ime = asparuh
+razmer = 1213231321321
+email = hanaasparuh@abc.ru
+
