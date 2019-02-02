@@ -1,3 +1,6 @@
 ime = Krum
 Razmer = mnogo golqm
 email = Suzdavamzakoniipiqotglavatananikifor@abv.bg
+ime = asparuh
+razmer = 1213231321321
+email = hanaasparuh@abc.ru
